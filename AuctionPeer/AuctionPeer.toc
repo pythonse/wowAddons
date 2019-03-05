@@ -1,0 +1,9 @@
+## Interface: 
+## Title:AuctionPeer
+## Title-zhCN:拍卖小助手
+## Notes:AuctionPeer
+## Notes-zhCN:拍卖小助手
+## Dependencies:
+## LoadOnDemand:1
+
+AuctionPeer.lua
